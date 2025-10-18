@@ -1,6 +1,6 @@
 # 🤖 OpenDroids: Building the Backbone of Tomorrow's World
 
-![OpenDroids Logo](https://github.com/Open-Droids-robot/.github/blob/0288ee99cef87920cae03fc10852bbca988aefd0/assets/open_droids_logo.jpg)
+<img src="https://github.com/Open-Droids-robot/.github/blob/0288ee99cef87920cae03fc10852bbca988aefd0/assets/open_droids_logo.jpg" alt="OpenDroids Logo" width="150"/>
 
 > **"Skillnet > Skynet"** — We believe that community-driven development can prevent closed, monopolistic AI systems and create a future where robotics serves humanity, not the other way around.
 
