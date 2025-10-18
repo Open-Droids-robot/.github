@@ -1,6 +1,6 @@
-# 🤖 OpenDroids: Building the Backbone of Tomorrow's World
+# 🤖 Open Droids
 
-![OpenDroids Logo](https://www.opendroids.com/logo.png)
+<img src="https://github.com/Open-Droids-robot/.github/blob/0288ee99cef87920cae03fc10852bbca988aefd0/assets/open_droids_logo.jpg" alt="OpenDroids Logo" width="150"/>
 
 > **"Skillnet > Skynet"** — We believe that community-driven development can prevent closed, monopolistic AI systems and create a future where robotics serves humanity, not the other way around.
 
@@ -14,7 +14,7 @@ Imagine a world where advanced robotics isn't locked behind corporate walls or p
 
 At OpenDroids, we envision a future where every innovator has access to world-class robotic platforms, every community can customize robots for their unique needs, every breakthrough is shared openly for the benefit of all humanity, and every robot is built on transparent, trustworthy foundations.
 
-We're building the backbone of the world with our vision of open-source robotics—because the future belongs to everyone, not just a select few.
+We're crafting the infrastructure of tomorrow with our vision of open-source robotics—because the future belongs to everyone, not just a select few.
 
 ---
 
@@ -40,7 +40,7 @@ The combined knowledge of thousands of contributors far exceeds what any single 
 
 We've seen this transformative power before:
 
-- **Linux** — From a student project to the backbone of the internet, powering everything from smartphones to supercomputers
+- **Linux** — From a student project to the foundation of the internet, powering everything from smartphones to supercomputers
 - **Arduino** — Democratized electronics development, enabling millions of makers worldwide to bring their ideas to life  
 - **ROS** — Became the standard framework for robotics research across academia and industry
 - **TensorFlow** — Google's open-source machine learning platform accelerated AI development globally
@@ -138,6 +138,6 @@ At OpenDroids, we choose everyone.
 
 ---
 
-*Together, we can build the backbone of the world with our vision of open-source robotics. The future is open—let's build it together!*
+*Together, we can forge the infrastructure of tomorrow with our vision of open-source robotics. The future is open—let's build it together!*
 
 **Skillnet > Skynet. Always.**
